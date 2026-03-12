@@ -1,4 +1,4 @@
-package com.java.helsinki.part01;
+package com.java.helsinki.part01.Ex02_AdaLovelace;
 
 public class AdaLovelace {
 

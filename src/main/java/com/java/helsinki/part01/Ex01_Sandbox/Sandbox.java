@@ -1,4 +1,4 @@
-package com.java.helsinki.part01;
+package com.java.helsinki.part01.Ex01_Sandbox;
 
 public class Sandbox {
 
