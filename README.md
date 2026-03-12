@@ -1,17 +1,14 @@
-Java Fundamentals: University of Helsinki (MOOC.fi)
-This repository contains my solutions and technical implementations for the renowned Java Programming Course from the University of Helsinki.
+Java Software Engineering: Helsinki Certification Path
+This repository documents my progression through the University of Helsinki’s Java Programming Certification. Rather than just a collection of exercises, this serves as a technical validation of my proficiency in the Java ecosystem, focusing on production-grade code and algorithmic precision.
 
-💡 Objective
-As a developer nearing graduation and transitioning into the Java ecosystem, I am utilizing this course to solidify my grasp of Strong Typing, Memory Management, and Object-Oriented Design Patterns in Java. This curriculum is known for its high academic rigor and automated testing (TMC), ensuring that every implementation follows industry best practices.
+🎯 Strategic Goal
+As I conclude my Computer Science degree, I am formalizing my transition into the Java stack. My focus is on mastering the JVM (Java Virtual Machine) lifecycle, architectural design patterns, and the strictness of strongly-typed system development.
 
-🛠 Tech Stack & Concepts
-Core Java: JDK 11/17+
+🛠 Technical Pillars
+Test-Driven Mindset: Every module is validated by the TMC (Test My Code) framework, ensuring 100% compliance with automated unit tests.
 
-Paradigm: Object-Oriented Programming (OOP)
+OOP Mastery: Practical implementation of Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
-Testing: Unit Testing with TMC (Test My Code) framework.
+Clean Code: Adhering to Java Naming Conventions and modularity.
 
-Key Concepts: Encapsulation, Polymorphism, Inheritance, Interfaces, and Exception Handling.
-
-📜 Certification
-Completion of this program grants a certificate of excellence from the University of Helsinki's Department of Computer Science.
+Certification: This path leads to the official Java Programming I & II certificates from the Department of Computer Science at the University of Helsinki.
