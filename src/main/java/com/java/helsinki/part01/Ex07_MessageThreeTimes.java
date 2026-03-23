@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex07_MessageThreeTimes;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class MessageThreeTimes {
+public class Ex07_MessageThreeTimes {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

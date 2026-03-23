@@ -1,15 +1,15 @@
-package com.java.helsinki.part01.Ex12_IntegerInput;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class IntegerInput {
+public class Ex13_DoubleInput {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         // write your program here
         System.out.println("Give a number:");
-        int number = Integer.valueOf(scanner.nextLine()) ;
+        double number = Double.valueOf(scanner.nextLine());
 
         System.out.println("You gave the number " + number);
     }

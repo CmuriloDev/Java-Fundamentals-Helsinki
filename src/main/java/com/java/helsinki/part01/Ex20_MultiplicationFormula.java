@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex17_SumOfTwoNumbers;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class SumOfTwoNumbers {
+public class Ex20_MultiplicationFormula {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -14,6 +14,6 @@ public class SumOfTwoNumbers {
         System.out.println("Give the second number:");
         int number2 = Integer.valueOf(scanner.nextLine());
 
-        System.out.println("The sum of the numbers is " + (number1 + number2));
+        System.out.println(number1 + " * " + number2 + " = " + number1*number2);
     }
 }

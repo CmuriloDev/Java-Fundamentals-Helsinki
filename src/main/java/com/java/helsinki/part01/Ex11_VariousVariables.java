@@ -1,6 +1,6 @@
-package com.java.helsinki.part01.Ex11_VariousVariables;
+package com.java.helsinki.part01;
 
-public class VariousVariables {
+public class Ex11_VariousVariables {
 
     public static void main(String[] args) {
         // MODIFY THESE:

@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex10_Story;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class Story {
+public class Ex10_Story {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex16_SecondsInADay;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class SecondsInADay {
+public class Ex16_SecondsInADay {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

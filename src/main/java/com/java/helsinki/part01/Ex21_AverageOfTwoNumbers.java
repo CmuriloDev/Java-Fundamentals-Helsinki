@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex18_SumOfThreeNumbers;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class SumOfThreeNumbers {
+public class Ex21_AverageOfTwoNumbers {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -14,9 +14,9 @@ public class SumOfThreeNumbers {
         System.out.println("Give the second number:");
         int number2 = Integer.valueOf(scanner.nextLine());
 
-        System.out.println("Give the third number:");
-        int number3 = Integer.valueOf(scanner.nextLine());
+        double result = 1.0 *(number1+number2)/2;
 
-        System.out.println("The sum of the numbers is " + (number1 + number2 + number3));
+        System.out.println("The average is " + result);
     }
 }
+

@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex15_DifferentTypesOfInput;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class DifferentTypesOfInput {
+public class Ex15_DifferentTypesOfInput {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex05_Message;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class Message {
+public class Ex05_Message {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

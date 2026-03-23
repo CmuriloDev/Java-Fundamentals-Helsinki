@@ -1,6 +1,6 @@
-package com.java.helsinki.part01.Ex02_AdaLovelace;
+package com.java.helsinki.part01;
 
-public class AdaLovelace {
+public class Ex02_AdaLovelace {
 
     public static void main(String[] args) {
         // Write your program here

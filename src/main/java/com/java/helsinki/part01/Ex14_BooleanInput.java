@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex14_BooleanInput;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class BooleanInput {
+public class Ex14_BooleanInput {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

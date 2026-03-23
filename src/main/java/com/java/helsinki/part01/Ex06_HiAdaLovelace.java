@@ -1,6 +1,6 @@
-package com.java.helsinki.part01.Ex06_HiAdaLovelace;
+package com.java.helsinki.part01;
 
-public class HiAdaLovelace {
+public class Ex06_HiAdaLovelace {
 
     public static void main(String[] args) {
         String name = "Ada Lovelace";

@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex08_Greeting;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class Greeting {
+public class Ex08_Greeting {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

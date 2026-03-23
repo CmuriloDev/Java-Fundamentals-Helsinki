@@ -1,11 +1,11 @@
-package com.java.helsinki.part01.Ex04_Dinosaur;
+package com.java.helsinki.part01;
 
-public class Dinosaur {
+public class Ex03_OnceUponATime {
 
     public static void main(String[] args) {
         // Write your program here
         System.out.println("Once upon a time");
         System.out.println("there was");
-        System.out.println("a dinosaur");
+        System.out.println("a program");
     }
 }

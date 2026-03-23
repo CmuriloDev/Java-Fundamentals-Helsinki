@@ -1,8 +1,8 @@
-package com.java.helsinki.part01.Ex09_Conversation;
+package com.java.helsinki.part01;
 
 import java.util.Scanner;
 
-public class Conversation {
+public class Ex09_Conversation {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
